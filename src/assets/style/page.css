@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFFFFF;
+    color: #1E1E1E;
+  }
+  
+  /* Men section styles */
+  .men-section {
+    background-color: #D6E6FF;
+    color: #1E1E1E;
+  }
+  
+  /* Women section styles */
+  .women-section {
+    background-color: #FDE2FF;
+    color: #1E1E1E;
+  }
+  
+  /* Unavailable product styles */
+  .unavailable-product {
+    background-color: #D8D7D7;
+    color: #1E1E1E;
+  }
